@@ -1,0 +1,7 @@
+# part 1 >> membuat hello world dengan python 
+
+tulis : 
+	1 | print("hello world")
+	2 | print("selamat datang ")
+
+	>> selesai <<
